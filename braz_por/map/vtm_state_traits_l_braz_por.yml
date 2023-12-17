@@ -1,4 +1,4 @@
 ﻿l_braz_por:
- state_trait_cold_water_port:0 "Cold Water Harbour"
- state_trait_difficult_terrain:0 "Difficult Terrain"
- state_trait_very_difficult_terrain:0 "Very Difficult Terrain"
+ state_trait_cold_water_port:0 "Porto de Águas Frias"
+ state_trait_difficult_terrain:0 "Terreno Acidentado" #Poderia ser "Terreno Difícil", mas não sei qual opção é melhor
+ state_trait_very_difficult_terrain:0 "Terreno Muito Acidentado"
